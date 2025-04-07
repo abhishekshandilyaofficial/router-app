@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class User {\n  constructor(id, name, username, password) {\n    this.id = id;\n    this.name = name;\n    this.username = username;\n    this.password = password;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
